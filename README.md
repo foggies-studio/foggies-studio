@@ -1,4 +1,4 @@
-<h1 align="center">Foggy Studio</h1>
+<h1 align="center">Foggy Studio🏝</h1>
 <h3 align="center">Backend Developer • Automation Systems • Cybersecurity</h3>
 
 <p align="center">
