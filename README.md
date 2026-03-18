@@ -1,5 +1,5 @@
-<h1 align="center">Foggy Studio</h1>
-<h3 align="center">Backend Developer • Telegram Bots • Automation Systems</h3>
+<h1 align="center">Daniil Lyubaev</h1>
+<h3 align="center">Backend Developer • Automation Systems • Founder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foggies-studio&label=Profile%20views&color=0e0e0e&style=flat" />
@@ -9,22 +9,22 @@
 
 ## 💼 What I Do
 
-I build systems that automate processes and save time.
+I design and build systems that automate processes and scale operations.
 
-- 🤖 Telegram bots (automation, logic, integrations)
-- ⚙️ Backend development (API, databases, services)
-- 🔗 Integrations (payment systems, APIs, parsers)
-- 📊 Automation scripts for business tasks
+- 🤖 Telegram bots (automation, integrations, business logic)
+- ⚙️ Backend systems (APIs, services, infrastructure)
+- 🔗 Integrations (payments, APIs, third-party services)
+- 📊 Automation tools & parsers
 
 ---
 
-## 🚀 What I Can Build For You
+## 🚀 What I Can Build
 
-- Telegram bot for business (orders, CRM, automation)
-- Parser / scraper (data collection, monitoring)
-- Backend API (Node.js / Python / Go)
-- Automation system (replace manual work with scripts)
-- Database setup (PostgreSQL, Redis)
+- Telegram bots for business (CRM, funnels, automation)
+- Backend APIs (Node.js / Python / Go)
+- Parsers & data collection systems
+- Automation systems (reducing manual work)
+- High-load architecture basics
 
 ---
 
@@ -37,12 +37,33 @@ I build systems that automate processes and save time.
 <img src="https://img.shields.io/badge/JavaScript-0e0e0e?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Go-0e0e0e?style=for-the-badge&logo=go" />
 <img src="https://img.shields.io/badge/Node.js-0e0e0e?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-0e0e0e?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/FastAPI-0e0e0e?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/NestJS-0e0e0e?style=for-the-badge&logo=nestjs" />
+
+</p>
+
+---
+
+## ⚙️ Technologies
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/PostgreSQL-0e0e0e?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MySQL-0e0e0e?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/SQLite-0e0e0e?style=for-the-badge&logo=sqlite" />
 <img src="https://img.shields.io/badge/Redis-0e0e0e?style=for-the-badge&logo=redis" />
+<img src="https://img.shields.io/badge/Prisma-0e0e0e?style=for-the-badge&logo=prisma" />
+<img src="https://img.shields.io/badge/Sequelize-0e0e0e?style=for-the-badge&logo=sequelize" />
+
 <img src="https://img.shields.io/badge/Docker-0e0e0e?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/Linux-0e0e0e?style=for-the-badge&logo=linux" />
 <img src="https://img.shields.io/badge/Nginx-0e0e0e?style=for-the-badge&logo=nginx" />
+
+<img src="https://img.shields.io/badge/REST%20API-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSockets-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Parsing-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-0e0e0e?style=for-the-badge" />
 
 </p>
 
@@ -50,22 +71,22 @@ I build systems that automate processes and save time.
 
 ## 🧠 About Me
 
-I’m an Information Security student focused on building real systems, not just learning theory.
+I’m an Information Security student focused on building real systems and scalable solutions.
 
-- 🎓 Studying cybersecurity and system architecture  
-- ⚡ Actively developing backend and automation projects  
-- 🧩 Working on real-world solutions (bots, APIs, systems)  
-- 🚀 Building portfolio for freelance and future career  
-- 📈 Constantly improving skills and expanding stack  
+- 🎓 Cybersecurity & system architecture  
+- ⚡ Backend & automation development  
+- 🧩 Real-world projects (bots, APIs, systems)  
+- 🚀 Building portfolio and own products  
+- 📈 Continuous growth and skill expansion  
 
 ---
 
 ## 🔐 Cybersecurity
 
 - Network analysis & reconnaissance  
-- Pentesting basics (bruteforce, CVE, enumeration)  
+- Pentesting basics (bruteforce, enumeration, CVE)  
 - Understanding vulnerabilities & attack vectors  
-- Learning offensive & defensive security  
+- Offensive & defensive security fundamentals  
 
 ---
 
@@ -80,7 +101,7 @@ I’m an Information Security student focused on building real systems, not just
 
 ---
 
-## 🌍 Contact Me
+## 🌍 Contacts
 
 <p align="center">
 
@@ -100,10 +121,9 @@ I’m an Information Security student focused on building real systems, not just
 
 ---
 
-## 💰 Open for Work
+## 🏢 Founder
 
-I'm available for freelance work and ready to take projects.
-
-> I build bots, backend systems and automation tools — text me 🚀
+Founder of development studio  
+**Daniil Lyubaev**
 
 ---
