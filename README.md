@@ -1,5 +1,5 @@
-<h1 align="center">Daniil Lyubaev</h1>
-<h3 align="center">Backend Developer • Automation Systems • Founder</h3>
+<h1 align="center">Foggy Studio</h1>
+<h3 align="center">Backend Developer • Automation Systems • Cybersecurity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foggies-studio&label=Profile%20views&color=0e0e0e&style=flat" />
@@ -9,58 +9,70 @@
 
 ## 💼 What I Do
 
-I design and build systems that automate processes and scale operations.
+I build backend systems, automation tools and Telegram bots that solve real tasks.
 
-- 🤖 Telegram bots (automation, integrations, business logic)
-- ⚙️ Backend systems (APIs, services, infrastructure)
-- 🔗 Integrations (payments, APIs, third-party services)
-- 📊 Automation tools & parsers
-
----
-
-## 🚀 What I Can Build
-
-- Telegram bots for business (CRM, funnels, automation)
-- Backend APIs (Node.js / Python / Go)
-- Parsers & data collection systems
-- Automation systems (reducing manual work)
-- High-load architecture basics
+- 🤖 Telegram bots (logic, integrations, automation)
+- ⚙️ Backend systems (API, services, infrastructure)
+- 🔗 Integrations (payments, third-party APIs)
+- 📊 Automation & parsing systems
 
 ---
 
-ds.io/badge/FastAPI-0e0e0e?style=for-the-badge&logo=fastapi" />
+## 🧠 Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-0e0e0e?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/TypeScript-0e0e0e?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/JavaScript-0e0e0e?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Go-0e0e0e?style=for-the-badge&logo=go" />
+
+<img src="https://img.shields.io/badge/Node.js-0e0e0e?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-0e0e0e?style=for-the-badge&logo=express" />
 <img src="https://img.shields.io/badge/NestJS-0e0e0e?style=for-the-badge&logo=nestjs" />
+<img src="https://img.shields.io/badge/FastAPI-0e0e0e?style=for-the-badge&logo=fastapi" />
+
+<img src="https://img.shields.io/badge/REST%20API-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSockets-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-0e0e0e?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-0e0e0e?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MySQL-0e0e0e?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/SQLite-0e0e0e?style=for-the-badge&logo=sqlite" />
+<img src="https://img.shields.io/badge/Redis-0e0e0e?style=for-the-badge&logo=redis" />
+
+<img src="https://img.shields.io/badge/Prisma-0e0e0e?style=for-the-badge&logo=prisma" />
+<img src="https://img.shields.io/badge/Sequelize-0e0e0e?style=for-the-badge&logo=sequelize" />
+
+<img src="https://img.shields.io/badge/Docker-0e0e0e?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Linux-0e0e0e?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Nginx-0e0e0e?style=for-the-badge&logo=nginx" />
+
+<img src="https://img.shields.io/badge/API%20Integration-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Parsing-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Debugging-0e0e0e?style=for-the-badge" />
 
 </p>
 
 ---
 
-## ⚙️ Engineering Skills
+## 🔐 Cybersecurity
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/REST%20API-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microservices-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Highload%20Basics-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Networking-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reconnaissance-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pentesting-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CVE%20Analysis-0e0e0e?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Database%20Design-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ORM-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Caching-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Queue%20Systems-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bruteforce-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Enumeration-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vulnerabilities-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Attack%20Vectors-0e0e0e?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/WebSockets-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API%20Integration-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Parsing%20%26%20Scraping-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-0e0e0e?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Docker%20Containers-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux%20Server-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nginx%20Setup-0e0e0e?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Error%20Handling-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Logging-0e0e0e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Debugging-0e0e0e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Basics%20Security-0e0e0e?style=for-the-badge" />
 
 </p>
 
@@ -73,17 +85,8 @@ I’m an Information Security student focused on building real systems and scala
 - 🎓 Cybersecurity & system architecture  
 - ⚡ Backend & automation development  
 - 🧩 Real-world projects (bots, APIs, systems)  
-- 🚀 Building portfolio and own products  
+- 🚀 Building own products and development studio  
 - 📈 Continuous growth and skill expansion  
-
----
-
-## 🔐 Cybersecurity
-
-- Network analysis & reconnaissance  
-- Pentesting basics (bruteforce, enumeration, CVE)  
-- Understanding vulnerabilities & attack vectors  
-- Offensive & defensive security fundamentals  
 
 ---
 
