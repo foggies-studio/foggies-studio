@@ -48,12 +48,24 @@ I build systems that automate processes and save time.
 
 ---
 
-## 🔐 About Me
+## 🧠 About Me
 
-- 🎓 Information Security student  
-- 🛡 Strong interest in cybersecurity & system architecture  
-- 📈 Focused on building real-world projects  
-- ⚡ Fast learner, working daily on skills and portfolio  
+I’m an Information Security student focused on building real systems, not just learning theory.
+
+- 🎓 Studying cybersecurity and system architecture  
+- ⚡ Actively developing backend and automation projects  
+- 🧩 Working on real-world solutions (bots, APIs, systems)  
+- 🚀 Building portfolio for freelance and future career  
+- 📈 Constantly improving skills and expanding stack  
+
+---
+
+## 🔐 Cybersecurity
+
+- Network analysis & reconnaissance  
+- Pentesting basics (bruteforce, CVE, enumeration)  
+- Understanding vulnerabilities & attack vectors  
+- Learning offensive & defensive security  
 
 ---
 
@@ -90,8 +102,8 @@ I build systems that automate processes and save time.
 
 ## 💰 Open for Work
 
-I'm available for freelance work and ready to take small to medium projects.
+I'm available for freelance work and ready to take projects.
 
-> If you need a Telegram bot, backend or automation — just text me 🚀
+> I build bots, backend systems and automation tools — text me 🚀
 
 ---
